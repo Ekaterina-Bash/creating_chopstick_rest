@@ -2,7 +2,6 @@
 This is a description of chopstick rest creating. This process includes using epoxy resin, silicone and 3D-technologies.
 # **Создание подставки для палочек суши**
 
-Необходимо создать 
 ## 1. Проектирование в Rhino формы для заливки молда
 
 шаг1. Моделирование детали в Rhino
